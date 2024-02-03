@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=AjSingh07)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m Ajeet Singh
 - 👀 I’m interested in Tech and Music
 - 🌱 I’m currently learning Artificial intelligence 
