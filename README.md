@@ -65,9 +65,8 @@ Here are some of my notable projects:
 
 Connect with me on these platforms:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/ajeet-singh-b6977a229/))
-- [Instagram]([link](https://www.instagram.com/_ajsingh07/))
-
+- [LinkedIn](https://www.linkedin.com/in/ajeet-singh-b6977a229/)
+- [Instagram](https://www.instagram.com/_ajsingh07/)
 Feel free to reach out for collaboration, questions, or just to say hi!
 
 ## 🙏 Acknowledgements
