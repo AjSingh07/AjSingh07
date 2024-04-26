@@ -1,12 +1,12 @@
-<h1>Hi there👋 This is Ajeet Singh<h1/> 
+<!-- <h1>Hi there👋 This is Ajeet Singh<h1/> 
 <h4> - 🔭 I’m currently working on frontend web development<h4/>  Exploring new web designs that can be effctive in future web dev <hr>
  <h4>- 🌱I’m currently learning Java<h4/>Learning how to it could be usefull and easy to code with java instead of other programming languages with OOPs concept.<hr>
 - 👯 I’m looking to collaborate on Web Design Ready to collaborate on Web Designs and deveolpment.
-<!-- - 🤔 I’m looking for help with ... -->
+- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/ajeet-singh-b6977a229/
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Skils:
+ - 😄 Pronouns: ... 
+- ⚡ Skils: -->
 
 # Hello, I'm Ajeet Singh 👋
 
